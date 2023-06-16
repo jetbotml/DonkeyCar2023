@@ -1,10 +1,5 @@
 # DonkeyCar2023
 
-https://github.com/jetbotml/DonkeyCar2023/wiki
-
-
-# Welcome to the DonkeyCar2023 wiki!
-
 This site will provide step by step instructions on how to configure DonkeyCar software on a Raspberry Pi and how to create inference models using AWS S3 and EC2. 
 
 ### References
