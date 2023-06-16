@@ -1,6 +1,6 @@
 # DonkeyCar2023
 
-This site will provide step by step instructions on how to configure DonkeyCar software on a Raspberry Pi and how to create inference models using AWS S3 and EC2. 
+This site will provide step by step instructions on how to configure DonkeyCar software on a Raspberry Pi and how to setup AWS (S3 and EC2 host) to train the machine learning model from the data collected on the car.  
 
 ### References
 * http://docs.donkeycar.com/
